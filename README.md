@@ -45,6 +45,9 @@ pip install -r requirements.txt
 
 Place datasets under `./dataset/` following the paths used in each script.
 
+Public datasets and baseline results can be referenced from the public benchmark:
+https://github.com/thuml/Time-Series-Library
+
 Examples:
 
 - `./dataset/ETT-small/ETTh1.csv`
